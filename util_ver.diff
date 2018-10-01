@@ -1,0 +1,14 @@
+diff --git a/util/ver b/util/ver
+index 0f0ab08..3274255 100755
+--- a/util/ver
++++ b/util/ver
+@@ -1,7 +1,7 @@
+ #!/bin/bash
+
+-main_ver=1.13.6
+-minor_ver=2
++main_ver=1.13.8
++minor_ver=0
+ version=$main_ver.$minor_ver
+ echo $version
+
